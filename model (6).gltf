@@ -1,0 +1,262 @@
+{
+   "accessors" : [
+      {
+         "bufferView" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 19964,
+         "max" : [ 1, 1, 1, 1 ],
+         "min" : [ 0.006584956776350737, 0.006584956776350737, 0.006584956776350737, 1 ],
+         "name" : "accessor_color_m0-PolyPaper21_-1690054",
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 319424,
+         "componentType" : 5126,
+         "count" : 120,
+         "max" : [ 1, 1, 1, 1 ],
+         "min" : [ 1, 1, 1, 1 ],
+         "name" : "accessor_color_m1-PolyGlass24_-1690060",
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 2,
+         "byteOffset" : 321344,
+         "componentType" : 5126,
+         "count" : 10520,
+         "max" : [ 1, 1, 1, 1 ],
+         "min" : [ 0.006584956776350737, 0.006584956776350737, 0.006584956776350737, 1 ],
+         "name" : "accessor_color_m2-PolyPaper21_-1690066",
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 0,
+         "byteOffset" : 0,
+         "componentType" : 5123,
+         "count" : 25404,
+         "max" : [ 19963 ],
+         "min" : [ 0 ],
+         "name" : "accessor_indices_0_m0-PolyPaper21_-1690054",
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 0,
+         "byteOffset" : 50808,
+         "componentType" : 5123,
+         "count" : 216,
+         "max" : [ 119 ],
+         "min" : [ 0 ],
+         "name" : "accessor_indices_0_m1-PolyGlass24_-1690060",
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 0,
+         "byteOffset" : 51240,
+         "componentType" : 5123,
+         "count" : 14712,
+         "max" : [ 10519 ],
+         "min" : [ 0 ],
+         "name" : "accessor_indices_0_m2-PolyPaper21_-1690066",
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 239568,
+         "componentType" : 5126,
+         "count" : 19964,
+         "max" : [ 0.9993906, 0.9999565, 0.9996410999999999 ],
+         "min" : [ -0.9992115, -0.9997758, -0.9979783 ],
+         "name" : "accessor_normal_m0-PolyPaper21_-1690054",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 480576,
+         "componentType" : 5126,
+         "count" : 120,
+         "max" : [ 0.9903632, 0.8222081, 0.8520304 ],
+         "min" : [ -0.9903636, -0.8222024, -0.8520263 ],
+         "name" : "accessor_normal_m1-PolyGlass24_-1690060",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 608256,
+         "componentType" : 5126,
+         "count" : 10520,
+         "max" : [ 0.9999369, 0.9996325, 0.9989349 ],
+         "min" : [ -0.9999369, -0.9999968, -0.9989349 ],
+         "name" : "accessor_normal_m2-PolyPaper21_-1690066",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 19964,
+         "max" : [ 1.084872, 0.3361134, 1.968486 ],
+         "min" : [ 0.9279655, -0.3065234, 1.618676 ],
+         "name" : "accessor_position_m0-PolyPaper21_-1690054",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 479136,
+         "componentType" : 5126,
+         "count" : 120,
+         "max" : [ 0.96368, 0.2671685, 1.811102 ],
+         "min" : [ 0.9364198, 0.1953273, 1.729213 ],
+         "name" : "accessor_position_m1-PolyGlass24_-1690060",
+         "type" : "VEC3"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 482016,
+         "componentType" : 5126,
+         "count" : 10520,
+         "max" : [ 1.117111, 0.3264747, 1.956578 ],
+         "min" : [ 0.929578, -0.06059657, 1.664932 ],
+         "name" : "accessor_position_m2-PolyPaper21_-1690066",
+         "type" : "VEC3"
+      }
+   ],
+   "asset" : {
+      "copyright" : "Unknown",
+      "generator" : "glTF 1-to-2 Upgrader for Google Blocks",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+         "buffer" : 0,
+         "byteLength" : 80664,
+         "byteOffset" : 0,
+         "name" : "ushortBufferView",
+         "target" : 34963
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 734496,
+         "byteOffset" : 80664,
+         "byteStride" : 12,
+         "name" : "vec3BufferView",
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 489664,
+         "byteOffset" : 815160,
+         "byteStride" : 16,
+         "name" : "vec4BufferView",
+         "target" : 34962
+      }
+   ],
+   "buffers" : [
+      {
+         "byteLength" : 1304824,
+         "name" : "model",
+         "uri" : "model.bin"
+      }
+   ],
+   "materials" : [
+      {
+         "alphaMode" : "OPAQUE",
+         "doubleSided" : false,
+         "name" : "BlocksPaper",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 1, 1, 1, 1 ],
+            "metallicFactor" : 0,
+            "roughnessFactor" : 0.6
+         }
+      },
+      {
+         "alphaMode" : "BLEND",
+         "doubleSided" : false,
+         "name" : "BlocksGlass",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 0.2, 0.2, 1, 0.3 ],
+            "metallicFactor" : 1,
+            "roughnessFactor" : 0.4
+         }
+      },
+      {
+         "alphaMode" : "OPAQUE",
+         "doubleSided" : true,
+         "name" : "BlocksGem",
+         "pbrMetallicRoughness" : {
+            "baseColorFactor" : [ 1, 0.4, 1, 1 ],
+            "metallicFactor" : 0,
+            "roughnessFactor" : 0.1
+         }
+      }
+   ],
+   "meshes" : [
+      {
+         "name" : "mesh_m0-PolyPaper21_-1690054",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "COLOR_0" : 0,
+                  "NORMAL" : 6,
+                  "POSITION" : 9
+               },
+               "indices" : 3,
+               "material" : 0,
+               "mode" : 4
+            }
+         ]
+      },
+      {
+         "name" : "mesh_m1-PolyGlass24_-1690060",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "COLOR_0" : 1,
+                  "NORMAL" : 7,
+                  "POSITION" : 10
+               },
+               "indices" : 4,
+               "material" : 1,
+               "mode" : 4
+            }
+         ]
+      },
+      {
+         "name" : "mesh_m2-PolyPaper21_-1690066",
+         "primitives" : [
+            {
+               "attributes" : {
+                  "COLOR_0" : 2,
+                  "NORMAL" : 8,
+                  "POSITION" : 11
+               },
+               "indices" : 5,
+               "material" : 0,
+               "mode" : 4
+            }
+         ]
+      }
+   ],
+   "nodes" : [
+      {
+         "mesh" : 1,
+         "name" : "node_MeshObject1117946880-PolyGlass24"
+      },
+      {
+         "mesh" : 2,
+         "name" : "node_MeshObject1690025984-PolyPaper21"
+      },
+      {
+         "mesh" : 0,
+         "name" : "node_MeshObject545867776-PolyPaper21"
+      }
+   ],
+   "scene" : 0,
+   "scenes" : [
+      {
+         "extras" : {},
+         "name" : "defaultScene",
+         "nodes" : [ 2, 0, 1 ]
+      }
+   ]
+}
